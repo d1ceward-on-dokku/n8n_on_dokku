@@ -107,6 +107,9 @@ git push dokku master
 Lastly, let's obtain an SSL certificate from [Let's Encrypt](https://letsencrypt.org/).
 
 ```bash
+# Add https port
+dokku proxy:ports-add n8n https:443:5000
+
 # Install letsencrypt plugin
 dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
 
