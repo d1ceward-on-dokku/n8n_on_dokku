@@ -1,6 +1,6 @@
 ![](.github/images/repo_header.png)
 
-[![n8n](https://img.shields.io/badge/n8n-1.123.62-blue.svg)](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.62)
+[![n8n](https://img.shields.io/badge/n8n-1.123.63-blue.svg)](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.63)
 [![Dokku](https://img.shields.io/badge/Dokku-Repo-blue.svg)](https://github.com/dokku/dokku)
 # Run n8n on Dokku
 
